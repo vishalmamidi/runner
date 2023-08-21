@@ -3,6 +3,10 @@
 # github runner 
 
 ```
+sudo ./svc.sh install
+```
+
+```
 sudo ./svc.sh status
 ```
 ```
